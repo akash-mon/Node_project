@@ -1,0 +1,14 @@
+[
+    {
+      "id": 1,
+      "name": "PRS",
+      "patientCount": 140,
+      "location": "TVM"
+    },
+    {
+      "id": 2,
+      "name": "NIMS",
+      "patientCount": 100,
+      "location": "NEYATTINKARA"
+    }
+  ]
